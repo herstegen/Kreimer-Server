@@ -1,11 +1,11 @@
-[09:32:51] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:32:53] [ServerMain/INFO]: Loaded 7 recipes
-[09:32:53] [ServerMain/INFO]: Loaded 1271 advancements
-[09:32:53] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[09:32:53] [Server thread/INFO]: Loading properties
-[09:32:53] [Server thread/INFO]: Default game type: SURVIVAL
-[09:32:53] [Server thread/INFO]: Generating keypair
-[09:32:53] [Server console handler/ERROR]: Exception handling console input
+[10:01:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:01:33] [ServerMain/INFO]: Loaded 7 recipes
+[10:01:33] [ServerMain/INFO]: Loaded 1271 advancements
+[10:01:34] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[10:01:34] [Server thread/INFO]: Loading properties
+[10:01:34] [Server thread/INFO]: Default game type: SURVIVAL
+[10:01:34] [Server thread/INFO]: Generating keypair
+[10:01:34] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
 	at java.io.FileInputStream.read(FileInputStream.java:293) ~[?:?]
@@ -22,48 +22,47 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(BufferedReader.java:348) ~[?:?]
 	at java.io.BufferedReader.readLine(BufferedReader.java:437) ~[?:?]
 	at ahe$1.run(SourceFile:89) ~[server-1.20.1.jar:?]
-[09:32:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:32:54] [Server thread/INFO]: Using default channel type
-[09:32:54] [Server thread/INFO]: Preparing level "KREIMERS"
-[09:32:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:33:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[09:33:02] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[09:33:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:33:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[09:33:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[09:33:04] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[09:33:05] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[09:33:05] [Worker-Main-4/INFO]: Preparing spawn area: 19%
-[09:33:06] [Worker-Main-7/INFO]: Preparing spawn area: 54%
-[09:33:06] [Worker-Main-7/INFO]: Preparing spawn area: 97%
-[09:33:06] [Server thread/INFO]: Time elapsed: 10794 ms
-[09:33:06] [Server thread/INFO]: Done (12.463s)! For help, type "help"
-[09:35:51] [User Authenticator #1/INFO]: UUID of player Herstegen is 00a1f3cf-28a7-49be-8d71-3099b4295535
-[09:35:51] [Server thread/INFO]: Herstegen[/192.168.0.104:51528] logged in with entity id 594 at (207.3804890424252, 99.0, 38.97079784227731)
-[09:35:51] [Server thread/INFO]: Herstegen joined the game
-[09:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2083ms or 41 ticks behind
-[09:36:16] [Server thread/INFO]: Herstegen lost connection: Disconnected
-[09:36:16] [Server thread/INFO]: Herstegen left the game
-[09:36:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9941ms or 198 ticks behind
-[09:39:40] [Server thread/INFO]: Stopping server
-[09:39:40] [Server thread/INFO]: Saving players
-[09:39:40] [Server thread/INFO]: Saving worlds
-[09:39:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
-[09:39:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
-[09:39:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
-[09:39:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
-[09:39:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:39:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:39:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:01:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:01:34] [Server thread/INFO]: Using default channel type
+[10:01:34] [Server thread/INFO]: Preparing level "KREIMERS"
+[10:01:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:01:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:01:42] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[10:01:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:01:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[10:01:44] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:01:44] [Worker-Main-6/INFO]: Preparing spawn area: 28%
+[10:01:45] [Worker-Main-7/INFO]: Preparing spawn area: 73%
+[10:01:46] [Server thread/INFO]: Time elapsed: 9050 ms
+[10:01:46] [Server thread/INFO]: Done (11.281s)! For help, type "help"
+[10:02:21] [User Authenticator #1/INFO]: UUID of player Herstegen is 00a1f3cf-28a7-49be-8d71-3099b4295535
+[10:02:22] [Server thread/INFO]: Herstegen[/192.168.0.104:52601] logged in with entity id 586 at (200.32046189725762, 99.0, 39.08231020103158)
+[10:02:22] [Server thread/INFO]: Herstegen joined the game
+[10:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[10:02:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12106ms or 242 ticks behind
+[10:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7466ms or 149 ticks behind
+[10:03:16] [Server thread/INFO]: Villager byb['Villager'/274, l='ServerLevel[KREIMERS]', x=122.30, y=120.00, z=120.30] died, message: 'Villager was slain by Zombie'
+[10:03:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2870ms or 57 ticks behind
+[10:04:00] [Server thread/INFO]: Herstegen lost connection: Disconnected
+[10:04:00] [Server thread/INFO]: Herstegen left the game
+[10:04:28] [Server thread/INFO]: Stopping server
+[10:04:28] [Server thread/INFO]: Saving players
+[10:04:28] [Server thread/INFO]: Saving worlds
+[10:04:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
+[10:04:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
+[10:04:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
+[10:04:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
+[10:04:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:04:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:04:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
