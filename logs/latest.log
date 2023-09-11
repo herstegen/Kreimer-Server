@@ -1,11 +1,11 @@
-[14:51:07] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:51:08] [ServerMain/INFO]: Loaded 7 recipes
-[14:51:08] [ServerMain/INFO]: Loaded 1271 advancements
-[14:51:09] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:51:09] [Server thread/INFO]: Loading properties
-[14:51:09] [Server thread/INFO]: Default game type: SURVIVAL
-[14:51:09] [Server thread/INFO]: Generating keypair
-[14:51:09] [Server console handler/ERROR]: Exception handling console input
+[15:16:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:16:04] [ServerMain/INFO]: Loaded 7 recipes
+[15:16:04] [ServerMain/INFO]: Loaded 1271 advancements
+[15:16:05] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[15:16:05] [Server thread/INFO]: Loading properties
+[15:16:05] [Server thread/INFO]: Default game type: SURVIVAL
+[15:16:05] [Server thread/INFO]: Generating keypair
+[15:16:05] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
 	at java.io.FileInputStream.read(FileInputStream.java:293) ~[?:?]
@@ -22,41 +22,45 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(BufferedReader.java:348) ~[?:?]
 	at java.io.BufferedReader.readLine(BufferedReader.java:437) ~[?:?]
 	at ahe$1.run(SourceFile:89) ~[server-1.20.1.jar:?]
-[14:51:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:51:09] [Server thread/INFO]: Using default channel type
-[14:51:09] [Server thread/INFO]: Preparing level "KREIMERS"
-[14:51:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:51:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:51:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:51:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:51:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[14:51:16] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:51:16] [Worker-Main-1/INFO]: Preparing spawn area: 60%
-[14:51:17] [Server thread/INFO]: Time elapsed: 5212 ms
-[14:51:17] [Server thread/INFO]: Done (7.587s)! For help, type "help"
-[14:51:21] [User Authenticator #1/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[14:51:21] [Server thread/INFO]: BOLASLOCAS321[/127.0.0.1:50647] logged in with entity id 567 at (190.6908173949049, 89.0, 55.675205837803375)
-[14:51:21] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[14:58:22] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[14:58:22] [Server thread/INFO]: BOLASLOCAS321 left the game
-[14:59:55] [User Authenticator #2/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[14:59:55] [Server thread/INFO]: BOLASLOCAS321[/192.168.66.165:51107] logged in with entity id 2215 at (133.72605995708756, 109.0, -47.255438063321826)
-[14:59:55] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[15:02:18] [Server thread/INFO]: <BOLASLOCAS321> asd
-[15:03:58] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[15:03:58] [Server thread/INFO]: BOLASLOCAS321 left the game
-[15:04:02] [Server thread/INFO]: Stopping the server
-[15:04:02] [Server thread/INFO]: Stopping server
-[15:04:02] [Server thread/INFO]: Saving players
-[15:04:02] [Server thread/INFO]: Saving worlds
-[15:04:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
-[15:04:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
-[15:04:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
-[15:04:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
-[15:04:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:04:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:04:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:16:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:16:05] [Server thread/INFO]: Using default channel type
+[15:16:05] [Server thread/INFO]: Preparing level "KREIMERS"
+[15:16:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:16:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:16:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:16:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:16:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:16:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:16:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:16:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:16:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:16:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:16:12] [Worker-Main-3/INFO]: Preparing spawn area: 62%
+[15:16:12] [Server thread/INFO]: Time elapsed: 5114 ms
+[15:16:12] [Server thread/INFO]: Done (7.342s)! For help, type "help"
+[15:16:35] [User Authenticator #1/INFO]: UUID of player Herstegen is 00a1f3cf-28a7-49be-8d71-3099b4295535
+[15:16:35] [Server thread/INFO]: Herstegen[/[0:0:0:0:0:0:0:1]:51654] logged in with entity id 652 at (180.6001075561424, 104.0, 29.228055874633533)
+[15:16:35] [Server thread/INFO]: Herstegen joined the game
+[15:17:02] [User Authenticator #2/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
+[15:17:02] [Server thread/INFO]: BOLASLOCAS321[/127.0.0.1:51683] logged in with entity id 912 at (134.28886667450422, 110.0, -44.92500001192093)
+[15:17:02] [Server thread/INFO]: BOLASLOCAS321 joined the game
+[15:18:28] [Server thread/INFO]: Herstegen lost connection: Disconnected
+[15:18:28] [Server thread/INFO]: Herstegen left the game
+[15:18:59] [User Authenticator #3/INFO]: UUID of player Herstegen is 00a1f3cf-28a7-49be-8d71-3099b4295535
+[15:18:59] [Server thread/INFO]: Herstegen[/[0:0:0:0:0:0:0:1]:51754] logged in with entity id 1312 at (180.6001075561424, 104.0, 29.228055874633533)
+[15:18:59] [Server thread/INFO]: Herstegen joined the game
+[15:22:14] [Server thread/INFO]: Herstegen lost connection: Disconnected
+[15:22:14] [Server thread/INFO]: Herstegen left the game
+[15:22:26] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
+[15:22:26] [Server thread/INFO]: BOLASLOCAS321 left the game
+[15:22:29] [Server thread/INFO]: Stopping the server
+[15:22:29] [Server thread/INFO]: Stopping server
+[15:22:29] [Server thread/INFO]: Saving players
+[15:22:29] [Server thread/INFO]: Saving worlds
+[15:22:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
+[15:22:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
+[15:22:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
+[15:22:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
+[15:22:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:22:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:22:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
