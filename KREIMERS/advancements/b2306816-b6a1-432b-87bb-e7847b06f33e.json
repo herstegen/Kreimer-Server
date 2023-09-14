@@ -293,7 +293,9 @@
     "criteria": {
       "chicken": "2023-09-09 01:38:13 -0300",
       "cooked_mutton": "2023-09-03 00:55:55 -0300",
+      "cooked_beef": "2023-09-12 20:41:37 -0300",
       "baked_potato": "2023-09-03 02:59:59 -0300",
+      "tropical_fish": "2023-09-12 19:28:45 -0300",
       "apple": "2023-09-09 00:34:28 -0300",
       "cooked_cod": "2023-09-03 01:11:27 -0300",
       "bread": "2023-09-02 23:40:42 -0300",
@@ -547,6 +549,7 @@
       "minecraft:spider": "2023-09-02 23:27:25 -0300",
       "minecraft:creeper": "2023-09-03 04:01:34 -0300",
       "minecraft:phantom": "2023-09-07 00:23:59 -0300",
+      "minecraft:enderman": "2023-09-13 00:30:12 -0300",
       "minecraft:zombie": "2023-09-02 23:28:20 -0300",
       "minecraft:drowned": "2023-09-06 23:55:16 -0300"
     },
@@ -2716,6 +2719,102 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2023-09-11 06:00:56 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2023-09-12 20:10:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2023-09-12 20:10:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-09-12 20:10:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2023-09-12 20:21:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2023-09-12 20:21:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-09-12 20:34:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-09-12 20:34:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2023-09-12 20:34:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2023-09-12 20:34:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2023-09-12 21:39:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-09-12 21:50:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2023-09-12 21:50:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-09-12 21:50:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2023-09-12 23:32:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2023-09-12 23:32:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2023-09-12 23:32:50 -0300"
     },
     "done": true
   },
