@@ -1,223 +1,52 @@
-[04:06:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[04:06:08] [ServerMain/INFO]: Loaded 7 recipes
-[04:06:08] [ServerMain/INFO]: Loaded 1271 advancements
-[04:06:08] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[04:06:08] [Server thread/INFO]: Loading properties
-[04:06:08] [Server thread/INFO]: Default game type: SURVIVAL
-[04:06:08] [Server thread/INFO]: Generating keypair
-[04:06:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:06:09] [Server thread/INFO]: Using default channel type
-[04:06:09] [Server thread/INFO]: Preparing level "KREIMERS"
-[04:06:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:06:12] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:06:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[04:06:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[04:06:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[04:06:12] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[04:06:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[04:06:13] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[04:06:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:06:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[04:06:15] [Worker-Main-2/INFO]: Preparing spawn area: 14%
-[04:06:15] [Worker-Main-3/INFO]: Preparing spawn area: 53%
-[04:06:16] [Server thread/INFO]: Time elapsed: 5371 ms
-[04:06:16] [Server thread/INFO]: Done (7.085s)! For help, type "help"
-[04:06:31] [User Authenticator #1/INFO]: UUID of player Vainfern8 is b2306816-b6a1-432b-87bb-e7847b06f33e
-[04:06:31] [Server thread/INFO]: Vainfern8[/181.29.54.82:61257] logged in with entity id 710 at (116.99471704874047, 53.0, -247.47562659987344)
-[04:06:31] [Server thread/INFO]: Vainfern8 joined the game
-[04:06:40] [User Authenticator #2/INFO]: UUID of player BeastSangrienta is a1c8cc63-95d7-4331-82fe-a02bc5653ef3
-[04:06:40] [Server thread/INFO]: BeastSangrienta[/190.139.92.193:60685] logged in with entity id 985 at (115.45205204382005, 54.0, -244.67214206006048)
-[04:06:40] [Server thread/INFO]: BeastSangrienta joined the game
-[04:06:56] [User Authenticator #3/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[04:06:56] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.18:57428] logged in with entity id 1001 at (109.2371697360812, 52.0, -238.29060191833977)
-[04:06:56] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[04:07:43] [Server thread/WARN]: BOLASLOCAS321 moved wrongly!
-[04:07:43] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.34788024352067737
-[04:07:43] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.3638173324903988
-[04:07:43] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.40449009081406473
-[04:07:43] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.4637710179838592
-[04:07:43] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.4238810283367087
-[04:07:43] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.43803680923325317
-[04:09:46] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.2806328047883362
-[04:09:46] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.673553137479125
-[04:09:46] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.3328860187865139
-[04:09:46] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.34772186576319797
-[04:11:18] [Server thread/INFO]: <BOLASLOCAS321> wrongly
-[04:11:44] [Server thread/INFO]: [Not Secure] [Server]  Boat (vehicle of Vainfern8) moved wrongly! 0.4238810283367087
-[04:19:50] [Server thread/INFO]: BeastSangrienta has made the advancement [Those Were the Days]
-[04:19:54] [Server thread/INFO]: BeastSangrienta has made the advancement [War Pigs]
-[04:23:43] [Server thread/INFO]: BeastSangrienta has made the advancement [Oh Shiny]
-[04:26:33] [Server thread/WARN]: BeastSangrienta moved too quickly! 0.23431916607876246,-1.0,10.030388397562092
-[04:26:33] [Server thread/WARN]: Vainfern8 moved too quickly! -4.611135963532632,2.0013359791121417,-8.771445985946595
-[04:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5477ms or 109 ticks behind
-[04:26:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[04:27:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1015, y=59, z=-1905} gu{x=1014, y=59, z=-1905}
-[04:27:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1005, y=60, z=-1912} gu{x=1013, y=62, z=-1909}
-[04:27:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1005, y=60, z=-1912} gu{x=1013, y=62, z=-1909}
-[04:27:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1005, y=60, z=-1912} gu{x=1013, y=62, z=-1909}
-[04:27:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1005, y=60, z=-1912} gu{x=1013, y=62, z=-1909}
-[04:28:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1014, y=59, z=-1908} gu{x=1019, y=59, z=-1909}
-[04:29:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1018, y=58, z=-1907} gu{x=1020, y=59, z=-1904}
-[04:29:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
-[04:32:23] [Server thread/INFO]: Vainfern8 suffocated in a wall
-[04:32:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2391ms or 47 ticks behind
-[04:34:19] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 1.2744938113731337
-[04:35:39] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 1.3857838232601687
-[04:35:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3433ms or 68 ticks behind
-[04:36:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8327ms or 166 ticks behind
-[04:38:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=704, y=12, z=444} gu{x=704, y=12, z=445}
-[04:40:13] [Server thread/INFO]: BeastSangrienta has completed the challenge [Hot Tourist Destinations]
-[04:41:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5922471334280601,0.5613914567732081,10.08776850254445
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5922471334280601,0.11661858943971026,10.2313611028903
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5922471334280601,-0.38737328215644595,10.364675536495188
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5922471334280601,-0.9482390865533716,10.487979275121642
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5922471334280601,-1.0,10.600917930264025
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5922471334280601,-1.0,10.712153528594396
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5922471334280601,-1.0,10.748096825967355
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5922471334280601,-1.0,10.710715544807496
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5840002349322901,-1.0,10.6121578015916
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5579518315906284,-1.0,10.483454961603524
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.5162944902668016,-1.0,10.3406247552075
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.46531604221860334,-1.0,10.190605731947816
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.4091596493674672,-1.0,10.03681462523246
-[04:41:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8620ms or 172 ticks behind
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.6089499118424726,2.0,-9.83526260939258
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.8784673678601393,2.0,-10.017781118209026
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -1.1787774824545636,2.0,-10.139730923723445
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -1.4974417965154885,2.0,-10.204559755390704
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -1.82483049425349,3.0,-10.220662360359253
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 0.5569262241534716
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 0.8871160627465144
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 1.0
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 1.0
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 1.0
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 1.0
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 1.1515839759262292
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 1.38427751511216
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 1.6604857953098815
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 1.9608661702304744
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 2.2747046666740403
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 2.595744335618548
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 2.9250187610756484
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 3.2586994405592975
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 3.5947378187213417
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 3.9320377544387384
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 4.270012724451277
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 4.609501710123766
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 4.951674916639661
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 5.295896305416022
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 5.641278882251129
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 5.98726567733317
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 6.333455057759693
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 6.679364318736958
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 7.024047633128248
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 7.365034807470693
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 7.699313020807153
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 8.0212439380646
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 8.323165273299587
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 8.529724692283303
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.856745096598615,2.0,0.9508120732485139
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.89880471002607,2.0,1.2602481251985402
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.886446294348985,2.0,1.5798976921979495
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.838152320179262,2.0,1.9033088141411838
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.768239325766586,2.0,2.2280582641588538
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.683193107311638,2.0,2.552441952184889
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.583398284208016,2.0,2.874361820977011
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.466883345498474,2.0,3.191427033274163
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.324835114187664,2.0,3.4974691060936216
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.156311114970919,2.0,3.789266906796936
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.966399845852521,2.0,4.067901796629702
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved wrongly! 8.526803052542366
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.613967961387743,2.400230281404262,4.774752727446007
-[04:41:51] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.613967961387743,2.7077794496506584,5.020684494451423
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.613967961387743,2.9263176750878586,5.25190989384436
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.613967961387743,3.059369789387304,5.47002015422251
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.613967961387743,3.110321040952144,5.676434333290196
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.603583111516826,3.0824226224120252,5.872417946744601
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.583937052264133,3.0,6.059099581517003
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.462568197408586,3.0,6.344616700771887
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.248525393292397,3.0,6.558641393677576
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -7.984894606646037,3.0,6.734411914649012
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -7.694730279225496,3.0,6.889713390924339
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -7.390368383158432,3.0,7.034062289491498
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -7.078088731480335,3.0,7.171763538088271
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -6.760948723054071,3.0,7.304342832396287
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -6.441208034636901,3.0,7.434181471085136
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -6.122506429603476,3.0,7.568405235539998
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -5.817221504725438,3.0,7.728680576300391
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -5.593415242894736,3.0,7.960384719416481
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -5.4224849847325345,3.0,8.233816079096776
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -5.279847621899592,3.0,8.52957484040963
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -5.153525766777278,3.0,8.837678367417674
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -5.04584684871611,3.0,9.155338837002002
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -4.9549783774081675,4.0,9.479745202840338
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -4.8735195374860325,4.0,9.807849900019352
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -4.7970956037106305,4.0,10.137933500561996
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -4.72498233111051,4.0,10.46941084485907
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -4.664550423183016,4.0,10.803232844194518
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -4.618585242237117,4.0,11.13923892600748
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.18131249235244695,0.8676715530256587,10.756976773605228
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.21748358638774334,0.9445035545210203,10.419637506350767
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.19717858250044173,0.7938820973533751,10.615909798768513
-[04:41:52] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -0.17832720239883315,0.5723932455787804,10.80672535534448
-[04:46:00] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -8.832732930077071,5.0,0.08268969515182789
-[04:46:00] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.172453593464269,5.0,0.08587006804228281
-[04:46:00] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.512181959171642,5.0,0.08864158091350305
-[04:46:00] [Server thread/WARN]: Horse (vehicle of Vainfern8) moved too quickly! -9.851914446236975,5.0,0.09141309378472329
-[04:49:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=713, y=21, z=545} gu{x=713, y=20, z=542}
-[04:49:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=713, y=23, z=541} gu{x=713, y=27, z=536}
-[04:49:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=713, y=23, z=541} gu{x=713, y=27, z=536}
-[04:49:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16618ms or 332 ticks behind
-[04:51:03] [Server thread/INFO]: <Vainfern8> 27 57 -2
-[04:51:15] [Server thread/INFO]: <BeastSangrienta> 716 61 498
-[04:57:17] [Server thread/INFO]: <BeastSangrienta> 337 42 190
-[05:02:11] [Server thread/WARN]: Vainfern8 moved too quickly! 5.328193220458388,-0.7508129212553172,-8.509749789453718
-[05:02:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4604ms or 92 ticks behind
-[05:13:15] [Server thread/WARN]: Vainfern8 moved too quickly! 10.08311673023772,-0.3739040364667261,-0.8152018379785417
-[05:22:08] [Server thread/WARN]: BOLASLOCAS321 moved too quickly! -6.297792476830324,3.623264386218267,-7.308647889594589
-[05:22:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8044ms or 160 ticks behind
-[05:22:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
-[05:27:14] [Server thread/WARN]: Vainfern8 moved too quickly! 0.002587531113761088,10.607874026626519,0.0
-[05:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[05:27:44] [Server thread/INFO]: <BOLASLOCAS321> 993 64 -1894
-[05:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[05:37:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[05:38:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[05:38:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[05:39:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[05:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3229ms or 64 ticks behind
-[05:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3409ms or 68 ticks behind
-[05:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2705ms or 54 ticks behind
-[05:40:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
-[05:40:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
-[05:40:58] [Server thread/INFO]: BeastSangrienta lost connection: Disconnected
-[05:40:58] [Server thread/INFO]: BeastSangrienta left the game
-[05:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[05:41:02] [Server thread/INFO]: Vainfern8 lost connection: Disconnected
-[05:41:02] [Server thread/INFO]: Vainfern8 left the game
-[05:41:06] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[05:41:06] [Server thread/INFO]: BOLASLOCAS321 left the game
-[05:41:13] [Server thread/INFO]: Stopping the server
-[05:41:14] [Server thread/INFO]: Stopping server
-[05:41:14] [Server thread/INFO]: Saving players
-[05:41:14] [Server thread/INFO]: Saving worlds
-[05:41:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
-[05:41:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
-[05:41:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
-[05:41:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
-[05:41:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:41:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:41:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:59:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:00:00] [ServerMain/INFO]: Loaded 7 recipes
+[14:00:00] [ServerMain/INFO]: Loaded 1271 advancements
+[14:00:01] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[14:00:01] [Server thread/INFO]: Loading properties
+[14:00:01] [Server thread/INFO]: Default game type: SURVIVAL
+[14:00:01] [Server thread/INFO]: Generating keypair
+[14:00:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:00:02] [Server thread/INFO]: Using default channel type
+[14:00:02] [Server thread/INFO]: Preparing level "KREIMERS"
+[14:00:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:00:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:00:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:00:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:00:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:00:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:00:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:00:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:00:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:00:09] [Worker-Main-7/INFO]: Preparing spawn area: 4%
+[14:00:09] [Worker-Main-6/INFO]: Preparing spawn area: 13%
+[14:00:10] [Worker-Main-2/INFO]: Preparing spawn area: 34%
+[14:00:10] [Server thread/INFO]: Time elapsed: 5420 ms
+[14:00:10] [Server thread/INFO]: Done (7.889s)! For help, type "help"
+[14:01:13] [User Authenticator #1/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
+[14:01:13] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.18:60947] logged in with entity id 647 at (1002.1623686362502, 64.0, -1909.7484407360257)
+[14:01:13] [Server thread/INFO]: BOLASLOCAS321 joined the game
+[14:01:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
+[14:02:28] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
+[14:02:28] [Server thread/INFO]: BOLASLOCAS321 left the game
+[14:12:46] [User Authenticator #2/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
+[14:12:46] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.18:61315] logged in with entity id 1270 at (1002.6999999880791, 64.0, -1900.5123073650432)
+[14:12:46] [Server thread/INFO]: BOLASLOCAS321 joined the game
+[14:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
+[14:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[14:55:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4238ms or 84 ticks behind
+[15:25:18] [Server thread/WARN]: BOLASLOCAS321 moved wrongly!
+[16:14:51] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
+[16:14:51] [Server thread/INFO]: BOLASLOCAS321 left the game
+[16:14:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:14:59] [Server thread/INFO]:  stop<--[HERE]
+[16:15:01] [Server thread/INFO]: Stopping the server
+[16:15:01] [Server thread/INFO]: Stopping server
+[16:15:01] [Server thread/INFO]: Saving players
+[16:15:01] [Server thread/INFO]: Saving worlds
+[16:15:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
+[16:15:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
+[16:15:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
+[16:15:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
+[16:15:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:15:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:15:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
