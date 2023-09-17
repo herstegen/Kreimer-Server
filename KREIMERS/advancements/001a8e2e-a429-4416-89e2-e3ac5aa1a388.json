@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2023-09-10 00:57:56 -0300",
       "minecraft:old_growth_pine_taiga": "2023-09-07 00:28:58 -0300",
+      "minecraft:mushroom_fields": "2023-09-17 04:28:11 -0300",
       "minecraft:taiga": "2023-09-07 00:34:43 -0300",
       "minecraft:deep_ocean": "2023-09-07 03:35:42 -0300",
       "minecraft:sunflower_plains": "2023-09-07 03:51:31 -0300",
@@ -23,11 +24,13 @@
       "minecraft:snowy_plains": "2023-09-15 02:42:47 -0300",
       "minecraft:dripstone_caves": "2023-09-07 00:36:05 -0300",
       "minecraft:grove": "2023-09-07 00:25:47 -0300",
+      "minecraft:swamp": "2023-09-17 04:35:24 -0300",
       "minecraft:jagged_peaks": "2023-09-07 00:35:27 -0300",
       "minecraft:cold_ocean": "2023-09-07 00:56:21 -0300",
       "minecraft:forest": "2023-09-07 00:50:44 -0300",
       "minecraft:lush_caves": "2023-09-09 01:52:26 -0300",
       "minecraft:deep_cold_ocean": "2023-09-07 00:56:30 -0300",
+      "minecraft:windswept_forest": "2023-09-17 05:46:29 -0300",
       "minecraft:jungle": "2023-09-07 01:21:14 -0300",
       "minecraft:ocean": "2023-09-07 01:09:02 -0300",
       "minecraft:old_growth_spruce_taiga": "2023-09-07 00:34:41 -0300",
@@ -779,6 +782,7 @@
       "minecraft:phantom": "2023-09-09 02:23:17 -0300",
       "minecraft:zombified_piglin": "2023-09-14 23:43:41 -0300",
       "minecraft:wither_skeleton": "2023-09-07 03:55:29 -0300",
+      "minecraft:enderman": "2023-09-17 02:22:35 -0300",
       "minecraft:vex": "2023-09-15 02:07:22 -0300",
       "minecraft:zombie": "2023-09-07 00:44:15 -0300",
       "minecraft:drowned": "2023-09-15 15:28:44 -0300",
@@ -3310,6 +3314,42 @@
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2023-09-15 15:19:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-09-17 06:03:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-09-17 06:03:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-09-17 05:42:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2023-09-17 05:44:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-09-17 05:42:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-09-17 05:42:11 -0300"
     },
     "done": true
   },

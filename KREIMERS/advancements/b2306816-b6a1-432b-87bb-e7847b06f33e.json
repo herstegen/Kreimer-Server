@@ -9,10 +9,15 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2023-09-02 23:09:12 -0300",
       "minecraft:taiga": "2023-09-03 00:10:18 -0300",
+      "minecraft:deep_ocean": "2023-09-17 03:16:38 -0300",
       "minecraft:birch_forest": "2023-09-02 23:07:46 -0300",
+      "minecraft:wooded_badlands": "2023-09-17 03:47:03 -0300",
+      "minecraft:badlands": "2023-09-17 04:00:40 -0300",
       "minecraft:beach": "2023-09-03 00:20:09 -0300",
       "minecraft:dark_forest": "2023-09-02 23:09:04 -0300",
+      "minecraft:sparse_jungle": "2023-09-17 03:47:05 -0300",
       "minecraft:river": "2023-09-03 00:10:47 -0300",
+      "minecraft:lukewarm_ocean": "2023-09-17 03:23:44 -0300",
       "minecraft:stony_shore": "2023-09-03 01:02:49 -0300",
       "minecraft:dripstone_caves": "2023-09-03 01:58:44 -0300",
       "minecraft:grove": "2023-09-02 23:04:59 -0300",
@@ -22,12 +27,17 @@
       "minecraft:forest": "2023-09-03 00:17:16 -0300",
       "minecraft:lush_caves": "2023-09-02 23:32:25 -0300",
       "minecraft:deep_cold_ocean": "2023-09-03 00:36:42 -0300",
+      "minecraft:desert": "2023-09-17 04:00:33 -0300",
+      "minecraft:jungle": "2023-09-17 03:28:16 -0300",
+      "minecraft:ocean": "2023-09-17 03:16:27 -0300",
       "minecraft:old_growth_spruce_taiga": "2023-09-02 23:26:36 -0300",
+      "minecraft:warm_ocean": "2023-09-17 04:08:03 -0300",
       "minecraft:frozen_peaks": "2023-09-15 01:55:56 -0300",
       "minecraft:old_growth_birch_forest": "2023-09-02 23:08:26 -0300",
       "minecraft:deep_dark": "2023-09-02 23:33:15 -0300",
       "minecraft:meadow": "2023-09-03 01:05:29 -0300",
       "minecraft:windswept_gravelly_hills": "2023-09-10 00:55:04 -0300",
+      "minecraft:savanna": "2023-09-17 03:23:49 -0300",
       "minecraft:plains": "2023-09-03 00:19:25 -0300"
     },
     "done": false
@@ -3029,6 +3039,144 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2023-09-15 05:11:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2023-09-17 03:20:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2023-09-17 03:20:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-09-17 03:29:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-09-17 03:29:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2023-09-17 03:20:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2023-09-17 03:29:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-09-17 03:19:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-09-17 03:20:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-09-17 03:20:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-09-17 03:19:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2023-09-17 03:20:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2023-09-17 06:18:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-09-17 03:19:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-09-17 03:36:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2023-09-17 03:29:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-09-17 04:05:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-09-17 03:19:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2023-09-17 03:36:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-09-17 03:19:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-09-17 03:36:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2023-09-17 06:18:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2023-09-17 06:18:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-09-17 03:19:47 -0300"
     },
     "done": true
   },
