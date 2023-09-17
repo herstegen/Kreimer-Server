@@ -1,52 +1,37 @@
-[13:59:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:00:00] [ServerMain/INFO]: Loaded 7 recipes
-[14:00:00] [ServerMain/INFO]: Loaded 1271 advancements
-[14:00:01] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:00:01] [Server thread/INFO]: Loading properties
-[14:00:01] [Server thread/INFO]: Default game type: SURVIVAL
-[14:00:01] [Server thread/INFO]: Generating keypair
-[14:00:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:00:02] [Server thread/INFO]: Using default channel type
-[14:00:02] [Server thread/INFO]: Preparing level "KREIMERS"
-[14:00:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:00:06] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[14:00:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:06] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:07] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[14:00:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[14:00:08] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[14:00:09] [Worker-Main-7/INFO]: Preparing spawn area: 4%
-[14:00:09] [Worker-Main-6/INFO]: Preparing spawn area: 13%
-[14:00:10] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[14:00:10] [Server thread/INFO]: Time elapsed: 5420 ms
-[14:00:10] [Server thread/INFO]: Done (7.889s)! For help, type "help"
-[14:01:13] [User Authenticator #1/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[14:01:13] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.18:60947] logged in with entity id 647 at (1002.1623686362502, 64.0, -1909.7484407360257)
-[14:01:13] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[14:01:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2069ms or 41 ticks behind
-[14:02:28] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[14:02:28] [Server thread/INFO]: BOLASLOCAS321 left the game
-[14:12:46] [User Authenticator #2/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[14:12:46] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.18:61315] logged in with entity id 1270 at (1002.6999999880791, 64.0, -1900.5123073650432)
-[14:12:46] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[14:13:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2742ms or 54 ticks behind
-[14:14:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[14:55:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4238ms or 84 ticks behind
-[15:25:18] [Server thread/WARN]: BOLASLOCAS321 moved wrongly!
-[16:14:51] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[16:14:51] [Server thread/INFO]: BOLASLOCAS321 left the game
-[16:14:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[16:14:59] [Server thread/INFO]:  stop<--[HERE]
-[16:15:01] [Server thread/INFO]: Stopping the server
-[16:15:01] [Server thread/INFO]: Stopping server
-[16:15:01] [Server thread/INFO]: Saving players
-[16:15:01] [Server thread/INFO]: Saving worlds
-[16:15:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
-[16:15:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
-[16:15:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
-[16:15:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
-[16:15:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:15:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:15:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:53:20] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:53:21] [ServerMain/INFO]: Loaded 7 recipes
+[01:53:21] [ServerMain/INFO]: Loaded 1271 advancements
+[01:53:22] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:53:22] [Server thread/INFO]: Loading properties
+[01:53:22] [Server thread/INFO]: Default game type: SURVIVAL
+[01:53:22] [Server thread/INFO]: Generating keypair
+[01:53:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:53:22] [Server thread/INFO]: Using default channel type
+[01:53:22] [Server thread/INFO]: Preparing level "KREIMERS"
+[01:53:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:53:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[01:53:26] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[01:53:26] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[01:53:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:53:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:53:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:53:27] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[01:53:27] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[01:53:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:53:28] [Worker-Main-5/INFO]: Preparing spawn area: 51%
+[01:53:28] [Server thread/INFO]: Time elapsed: 4880 ms
+[01:53:28] [Server thread/INFO]: Done (6.536s)! For help, type "help"
+[01:53:33] [User Authenticator #1/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
+[01:53:33] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.12:52617] logged in with entity id 652 at (1040.3515866444052, 71.0, -1781.6726926221854)
+[01:53:33] [Server thread/INFO]: BOLASLOCAS321 joined the game
+[01:54:39] [Server thread/INFO]: Stopping the server
+[01:54:39] [Server thread/INFO]: Stopping server
+[01:54:39] [Server thread/INFO]: Saving players
+[01:54:39] [Server thread/INFO]: Saving worlds
+[01:54:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
+[01:54:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
+[01:54:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
+[01:54:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
+[01:54:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:54:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:54:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
