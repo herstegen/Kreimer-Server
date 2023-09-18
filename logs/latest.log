@@ -1,119 +1,71 @@
-[17:34:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:34:46] [ServerMain/INFO]: Loaded 7 recipes
-[17:34:46] [ServerMain/INFO]: Loaded 1271 advancements
-[17:34:47] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[17:34:47] [Server thread/INFO]: Loading properties
-[17:34:47] [Server thread/INFO]: Default game type: SURVIVAL
-[17:34:47] [Server thread/INFO]: Generating keypair
-[17:34:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:34:47] [Server thread/INFO]: Using default channel type
-[17:34:48] [Server thread/INFO]: Preparing level "KREIMERS"
-[17:34:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:35:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[17:35:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:35:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[17:35:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:35:03] [Worker-Main-5/INFO]: Preparing spawn area: 33%
-[17:35:04] [Worker-Main-1/INFO]: Preparing spawn area: 49%
-[17:35:05] [Worker-Main-5/INFO]: Preparing spawn area: 99%
-[17:35:05] [Worker-Main-3/INFO]: Preparing spawn area: 99%
-[17:35:05] [Worker-Main-4/INFO]: Preparing spawn area: 99%
-[17:35:05] [Server thread/INFO]: Time elapsed: 15258 ms
-[17:35:05] [Server thread/INFO]: Done (17.912s)! For help, type "help"
-[18:07:24] [User Authenticator #1/INFO]: UUID of player Herstegen is 00a1f3cf-28a7-49be-8d71-3099b4295535
-[18:07:25] [Server thread/INFO]: Herstegen[/186.22.17.217:45818] logged in with entity id 585 at (186.4481201328586, 102.9375, 35.97668623784599)
-[18:07:25] [Server thread/INFO]: Herstegen joined the game
-[18:15:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:15:16] [Server thread/INFO]: <--[HERE]
-[18:15:20] [Server thread/INFO]: [Not Secure] [Server] se�or esta?
-[18:15:26] [Server thread/INFO]: <Herstegen> si
-[18:15:31] [Server thread/INFO]: [Not Secure] [Server] anda todo bien?
-[18:15:34] [Server thread/INFO]: <Herstegen> lagi
-[18:15:39] [Server thread/INFO]: [Not Secure] [Server] uh
-[18:15:50] [Server thread/INFO]: [Not Secure] [Server] bueno la pc esta dando todo de su ser
-[18:15:59] [Server thread/INFO]: <Herstegen> excelente
-[18:16:01] [Server thread/INFO]: <Herstegen> gracias
-[18:16:03] [Server thread/INFO]: [Not Secure] [Server] en un rato vengo 
-[18:16:07] [Server thread/INFO]: <Herstegen> hiciste algo del ordenador?
-[18:16:11] [Server thread/INFO]: <Herstegen> de objetos
-[18:16:21] [Server thread/INFO]: <Herstegen> yo voy a estar un rato nomás y sigo estudiando
-[18:16:22] [Server thread/INFO]: [Not Secure] [Server] nonono, junte todos los materiales para la granja de esme
-[18:16:27] [Server thread/INFO]: <Herstegen> ok
-[18:16:29] [Server thread/INFO]: [Not Secure] [Server] empece la granja de esme e
-[18:16:33] [Server thread/INFO]: <Herstegen> hay redstone y eso?
-[18:16:34] [Server thread/INFO]: [Not Secure] [Server] esta bien complicada
-[18:16:50] [Server thread/INFO]: [Not Secure] [Server] no hay reds
-[18:17:05] [Server thread/INFO]: [Not Secure] [Server] pero podes conseguir todo tradeando con los aldeanos
-[18:17:13] [Server thread/INFO]: [Not Secure] [Server] hay 1 que es alquimista o clerico creo
-[18:17:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:17:13] [Server thread/INFO]: <--[HERE]
-[18:17:23] [Server thread/INFO]: [Not Secure] [Server] te da 2 de redstone x 1 esmeralda
-[18:17:31] [Server thread/INFO]: [Not Secure] [Server] esmeralda tenemos casi infinito
-[18:17:46] [Server thread/INFO]: <Herstegen> ok
-[18:17:46] [Server thread/INFO]: [Not Secure] [Server] agarras el hierro de todas las granjas y lo cambias x esme a los weaponsmith
-[18:17:51] [Server thread/INFO]: <Herstegen> de lujo
-[18:18:04] [Server thread/INFO]: <Herstegen> puedo matar vacas?
-[18:18:08] [Server thread/INFO]: [Not Secure] [Server] sisi
-[18:18:15] [Server thread/INFO]: <Herstegen> el lag me parece que es porque el mundo está re cargado de entidades jsjsjjs
-[18:18:15] [Server thread/INFO]: [Not Secure] [Server] podes matar todo pero que queden 2 al menos
-[18:18:27] [Server thread/INFO]: [Not Secure] [Server] sisi el server pesa casi 4gb ahora
-[18:28:11] [Server thread/INFO]: Villager byb['Villager'/394, l='ServerLevel[KREIMERS]', x=95.70, y=171.00, z=146.70] died, message: 'Villager was slain by Zombie'
-[18:28:56] [Server thread/INFO]: Villager byb['Villager'/393, l='ServerLevel[KREIMERS]', x=72.38, y=179.75, z=178.70] died, message: 'Villager was slain by Zombie'
-[18:29:36] [Server thread/INFO]: Herstegen has made the advancement [What a Deal!]
-[18:31:55] [Server thread/INFO]: Herstegen has made the advancement [Cover Me with Diamonds]
-[18:39:24] [Server thread/INFO]: <Herstegen> 4gb? we
-[18:41:38] [Server thread/INFO]: Herstegen has made the advancement [Isn't It Iron Pick]
-[19:10:06] [User Authenticator #2/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[19:10:06] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:58658] logged in with entity id 11697 at (1031.488017240034, 75.0, -1781.8700978445866)
-[19:10:06] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[19:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
-[19:30:10] [Server thread/WARN]: Herstegen moved too quickly! 4.037834738254247,-1.2405414225528801,9.189853894675586
-[19:30:10] [Server thread/WARN]: BOLASLOCAS321 moved too quickly! 9.06574163570599,-1.9305045112371744,3.9324014796819498
-[19:42:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=139, y=84, z=95} gu{x=139, y=83, z=95}
-[19:42:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=138, y=82, z=100} gu{x=138, y=83, z=101}
-[20:26:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=116, y=87, z=75} gu{x=117, y=87, z=75}
-[20:28:56] [Server thread/INFO]: <BOLASLOCAS321> 133 84 92
-[20:43:14] [Server thread/INFO]: Villager byb['Villager'/463, l='ServerLevel[KREIMERS]', x=95.70, y=171.00, z=146.70] died, message: 'Villager was slain by Zombie'
-[20:53:27] [Server thread/INFO]: Herstegen lost connection: Disconnected
-[20:53:27] [Server thread/INFO]: Herstegen left the game
-[20:53:27] [Server thread/WARN]: handleDisconnection() called twice
-[20:56:36] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[20:56:36] [Server thread/INFO]: BOLASLOCAS321 left the game
-[20:56:40] [User Authenticator #3/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[20:56:41] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:61065] logged in with entity id 36741 at (138.4861290994062, 85.0, 87.96198376332586)
-[20:56:41] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[21:30:10] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[21:30:10] [Server thread/INFO]: BOLASLOCAS321 left the game
-[21:42:08] [Server thread/INFO]: Stopping the server
-[21:42:08] [Server thread/INFO]: Stopping server
-[21:42:08] [Server thread/INFO]: Saving players
-[21:42:08] [Server thread/INFO]: Saving worlds
-[21:42:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
-[21:42:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
-[21:42:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
-[21:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
-[21:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:50:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:50:31] [ServerMain/INFO]: Loaded 7 recipes
+[00:50:31] [ServerMain/INFO]: Loaded 1271 advancements
+[00:50:32] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[00:50:32] [Server thread/INFO]: Loading properties
+[00:50:32] [Server thread/INFO]: Default game type: SURVIVAL
+[00:50:32] [Server thread/INFO]: Generating keypair
+[00:50:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:50:32] [Server thread/INFO]: Using default channel type
+[00:50:32] [Server thread/INFO]: Preparing level "KREIMERS"
+[00:50:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:50:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:37] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[00:50:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:50:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:50:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[00:50:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:50:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:50:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:50:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:39] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[00:50:39] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[00:50:40] [Worker-Main-5/INFO]: Preparing spawn area: 96%
+[00:50:40] [Server thread/INFO]: Time elapsed: 6146 ms
+[00:50:40] [Server thread/INFO]: Done (7.843s)! For help, type "help"
+[00:51:51] [User Authenticator #1/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
+[00:51:52] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:50464] logged in with entity id 603 at (137.30000001192093, 82.0, 90.6553468449474)
+[00:51:52] [Server thread/INFO]: BOLASLOCAS321 joined the game
+[02:15:42] [Server thread/WARN]: BOLASLOCAS321 moved too quickly! -0.47859681306002244,-0.43152384527073195,10.053639081843926
+[02:29:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=181, y=103, z=30} gu{x=180, y=103, z=32}
+[02:29:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=181, y=103, z=30} gu{x=180, y=103, z=32}
+[02:30:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=181, y=103, z=30} gu{x=181, y=96, z=43}
+[02:30:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=181, y=103, z=30} gu{x=181, y=96, z=43}
+[02:35:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=128, y=95, z=69} gu{x=128, y=93, z=69}
+[03:04:48] [Server thread/INFO]: <BOLASLOCAS321> 169 ss 44
+[03:52:41] [User Authenticator #2/INFO]: UUID of player Vainfern8 is b2306816-b6a1-432b-87bb-e7847b06f33e
+[03:52:42] [Server thread/INFO]: Vainfern8[/181.29.54.82:54609] logged in with entity id 40836 at (728.811765114923, 63.0, -760.2938969430425)
+[03:52:42] [Server thread/INFO]: Vainfern8 joined the game
+[03:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[04:25:37] [User Authenticator #3/INFO]: UUID of player BeastSangrienta is a1c8cc63-95d7-4331-82fe-a02bc5653ef3
+[04:25:39] [Server thread/INFO]: BeastSangrienta[/190.139.92.193:53611] logged in with entity id 51354 at (730.7836200815948, 63.0, -762.1365104571897)
+[04:25:39] [Server thread/INFO]: BeastSangrienta joined the game
+[04:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[05:04:55] [Server thread/INFO]: BOLASLOCAS321 has made the advancement [Ol' Betsy]
+[05:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=160, y=81, z=92} gu{x=160, y=81, z=89}
+[05:18:01] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=190, y=90, z=-34} gu{x=189, y=90, z=-35}
+[05:45:46] [Server thread/WARN]: BeastSangrienta moved too quickly! 0.4252392887683527,-1.024424088213685,-10.2980267003488
+[05:46:53] [Server thread/INFO]: <Vainfern8> 28 57 -4
+[05:50:46] [Server thread/WARN]: Vainfern8 moved too quickly! -0.5877308289953049,-0.7800000607967377,10.473195756980118
+[05:52:24] [Server thread/INFO]: Villager byb['Villager'/120, l='ServerLevel[KREIMERS]', x=99.49, y=147.00, z=134.26] died, message: 'Villager was slain by Zombie'
+[06:01:56] [Server thread/INFO]: Named entity brx['Holder'/556, l='ServerLevel[KREIMERS]', x=137.96, y=100.00, z=109.11] died: Holder was shot by Skeleton
+[06:10:41] [Server thread/INFO]: [Not Secure] [Server] Named entity brx['Holder'/556, l='ServerLevel[KREIMERS]', x=137.96, y=100.00, z=109.11] died: Holder was shot by Skeleton
+[06:31:23] [Server thread/INFO]: BeastSangrienta lost connection: Disconnected
+[06:31:23] [Server thread/INFO]: BeastSangrienta left the game
+[06:31:25] [Server thread/WARN]: Vainfern8 moved too quickly! -9.995433452149271,0.9031272476744903,-1.5942833140261712
+[06:31:28] [Server thread/INFO]: Vainfern8 lost connection: Disconnected
+[06:31:28] [Server thread/INFO]: Vainfern8 left the game
+[06:46:41] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
+[06:46:41] [Server thread/INFO]: BOLASLOCAS321 left the game
+[06:46:58] [Server thread/INFO]: Stopping the server
+[06:46:58] [Server thread/INFO]: Stopping server
+[06:46:59] [Server thread/INFO]: Saving players
+[06:46:59] [Server thread/INFO]: Saving worlds
+[06:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
+[06:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
+[06:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
+[06:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
+[06:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
