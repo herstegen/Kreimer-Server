@@ -1,71 +1,69 @@
-[00:50:30] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:50:31] [ServerMain/INFO]: Loaded 7 recipes
-[00:50:31] [ServerMain/INFO]: Loaded 1271 advancements
-[00:50:32] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:50:32] [Server thread/INFO]: Loading properties
-[00:50:32] [Server thread/INFO]: Default game type: SURVIVAL
-[00:50:32] [Server thread/INFO]: Generating keypair
-[00:50:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:50:32] [Server thread/INFO]: Using default channel type
-[00:50:32] [Server thread/INFO]: Preparing level "KREIMERS"
-[00:50:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:50:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:37] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[00:50:37] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:50:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:50:37] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[00:50:37] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[00:50:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:50:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[00:50:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:39] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[00:50:39] [Worker-Main-6/INFO]: Preparing spawn area: 69%
-[00:50:40] [Worker-Main-5/INFO]: Preparing spawn area: 96%
-[00:50:40] [Server thread/INFO]: Time elapsed: 6146 ms
-[00:50:40] [Server thread/INFO]: Done (7.843s)! For help, type "help"
-[00:51:51] [User Authenticator #1/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[00:51:52] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:50464] logged in with entity id 603 at (137.30000001192093, 82.0, 90.6553468449474)
-[00:51:52] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[02:15:42] [Server thread/WARN]: BOLASLOCAS321 moved too quickly! -0.47859681306002244,-0.43152384527073195,10.053639081843926
-[02:29:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=181, y=103, z=30} gu{x=180, y=103, z=32}
-[02:29:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=181, y=103, z=30} gu{x=180, y=103, z=32}
-[02:30:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=181, y=103, z=30} gu{x=181, y=96, z=43}
-[02:30:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=181, y=103, z=30} gu{x=181, y=96, z=43}
-[02:35:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=128, y=95, z=69} gu{x=128, y=93, z=69}
-[03:04:48] [Server thread/INFO]: <BOLASLOCAS321> 169 ss 44
-[03:52:41] [User Authenticator #2/INFO]: UUID of player Vainfern8 is b2306816-b6a1-432b-87bb-e7847b06f33e
-[03:52:42] [Server thread/INFO]: Vainfern8[/181.29.54.82:54609] logged in with entity id 40836 at (728.811765114923, 63.0, -760.2938969430425)
-[03:52:42] [Server thread/INFO]: Vainfern8 joined the game
-[03:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
-[04:25:37] [User Authenticator #3/INFO]: UUID of player BeastSangrienta is a1c8cc63-95d7-4331-82fe-a02bc5653ef3
-[04:25:39] [Server thread/INFO]: BeastSangrienta[/190.139.92.193:53611] logged in with entity id 51354 at (730.7836200815948, 63.0, -762.1365104571897)
-[04:25:39] [Server thread/INFO]: BeastSangrienta joined the game
-[04:25:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
-[05:04:55] [Server thread/INFO]: BOLASLOCAS321 has made the advancement [Ol' Betsy]
-[05:13:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=160, y=81, z=92} gu{x=160, y=81, z=89}
-[05:18:01] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=190, y=90, z=-34} gu{x=189, y=90, z=-35}
-[05:45:46] [Server thread/WARN]: BeastSangrienta moved too quickly! 0.4252392887683527,-1.024424088213685,-10.2980267003488
-[05:46:53] [Server thread/INFO]: <Vainfern8> 28 57 -4
-[05:50:46] [Server thread/WARN]: Vainfern8 moved too quickly! -0.5877308289953049,-0.7800000607967377,10.473195756980118
-[05:52:24] [Server thread/INFO]: Villager byb['Villager'/120, l='ServerLevel[KREIMERS]', x=99.49, y=147.00, z=134.26] died, message: 'Villager was slain by Zombie'
-[06:01:56] [Server thread/INFO]: Named entity brx['Holder'/556, l='ServerLevel[KREIMERS]', x=137.96, y=100.00, z=109.11] died: Holder was shot by Skeleton
-[06:10:41] [Server thread/INFO]: [Not Secure] [Server] Named entity brx['Holder'/556, l='ServerLevel[KREIMERS]', x=137.96, y=100.00, z=109.11] died: Holder was shot by Skeleton
-[06:31:23] [Server thread/INFO]: BeastSangrienta lost connection: Disconnected
-[06:31:23] [Server thread/INFO]: BeastSangrienta left the game
-[06:31:25] [Server thread/WARN]: Vainfern8 moved too quickly! -9.995433452149271,0.9031272476744903,-1.5942833140261712
-[06:31:28] [Server thread/INFO]: Vainfern8 lost connection: Disconnected
-[06:31:28] [Server thread/INFO]: Vainfern8 left the game
-[06:46:41] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[06:46:41] [Server thread/INFO]: BOLASLOCAS321 left the game
-[06:46:58] [Server thread/INFO]: Stopping the server
-[06:46:58] [Server thread/INFO]: Stopping server
-[06:46:59] [Server thread/INFO]: Saving players
-[06:46:59] [Server thread/INFO]: Saving worlds
-[06:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
-[06:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
-[06:46:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
-[06:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
-[06:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:46:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:55:41] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:55:44] [ServerMain/INFO]: Loaded 7 recipes
+[14:55:44] [ServerMain/INFO]: Loaded 1271 advancements
+[14:55:45] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[14:55:45] [Server thread/INFO]: Loading properties
+[14:55:45] [Server thread/INFO]: Default game type: SURVIVAL
+[14:55:45] [Server thread/INFO]: Generating keypair
+[14:55:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:55:45] [Server thread/INFO]: Using default channel type
+[14:55:45] [Server thread/INFO]: Preparing level "KREIMERS"
+[14:55:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:55:55] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[14:55:56] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:55:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:55:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:55:58] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[14:55:58] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[14:55:59] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[14:55:59] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[14:56:00] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[14:56:00] [Worker-Main-3/INFO]: Preparing spawn area: 10%
+[14:56:01] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[14:56:02] [Server thread/INFO]: Time elapsed: 13530 ms
+[14:56:02] [Server thread/INFO]: Done (16.204s)! For help, type "help"
+[15:00:23] [User Authenticator #1/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
+[15:00:23] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:59137] logged in with entity id 637 at (150.17192387233467, 78.0, 102.60939047266513)
+[15:00:23] [Server thread/INFO]: BOLASLOCAS321 joined the game
+[15:20:22] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
+[15:20:22] [Server thread/INFO]: BOLASLOCAS321 left the game
+[15:21:22] [User Authenticator #2/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
+[15:21:22] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:59611] logged in with entity id 5383 at (145.180089979784, 78.0, 104.88086923536919)
+[15:21:22] [Server thread/INFO]: BOLASLOCAS321 joined the game
+[15:26:18] [Server thread/INFO]: <BOLASLOCAS321> 180 94 62
+[15:33:15] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=519, y=113, z=356} gu{x=519, y=114, z=357}
+[15:33:15] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=519, y=113, z=356} gu{x=519, y=114, z=357}
+[15:33:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=519, y=113, z=356} gu{x=519, y=115, z=358}
+[15:33:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=519, y=113, z=356} gu{x=519, y=115, z=358}
+[15:33:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=519, y=113, z=356} gu{x=519, y=115, z=358}
+[15:33:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=519, y=113, z=356} gu{x=519, y=115, z=358}
+[15:33:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=519, y=113, z=356} gu{x=519, y=115, z=358}
+[15:41:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[17:01:44] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
+[17:01:44] [Server thread/INFO]: BOLASLOCAS321 left the game
+[17:01:56] [Server thread/INFO]: Stopping the server
+[17:01:57] [Server thread/INFO]: Stopping server
+[17:01:57] [Server thread/INFO]: Saving players
+[17:01:57] [Server thread/INFO]: Saving worlds
+[17:01:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
+[17:01:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
+[17:01:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
+[17:01:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
+[17:01:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:01:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:01:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
