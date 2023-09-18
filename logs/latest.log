@@ -1,234 +1,119 @@
-[02:01:27] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:01:28] [ServerMain/INFO]: Loaded 7 recipes
-[02:01:28] [ServerMain/INFO]: Loaded 1271 advancements
-[02:01:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:01:29] [Server thread/INFO]: Loading properties
-[02:01:29] [Server thread/INFO]: Default game type: SURVIVAL
-[02:01:29] [Server thread/INFO]: Generating keypair
-[02:01:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:01:29] [Server thread/INFO]: Using default channel type
-[02:01:29] [Server thread/INFO]: Preparing level "KREIMERS"
-[02:01:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:01:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:01:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:01:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[02:01:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[02:01:34] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[02:01:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:01:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:01:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:01:35] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:01:35] [Worker-Main-2/INFO]: Preparing spawn area: 20%
-[02:01:36] [Worker-Main-4/INFO]: Preparing spawn area: 84%
-[02:01:36] [Server thread/INFO]: Time elapsed: 5280 ms
-[02:01:36] [Server thread/INFO]: Done (6.936s)! For help, type "help"
-[02:01:41] [User Authenticator #1/INFO]: UUID of player BeastSangrienta is a1c8cc63-95d7-4331-82fe-a02bc5653ef3
-[02:01:41] [Server thread/INFO]: BeastSangrienta[/190.139.92.193:59458] logged in with entity id 656 at (1810.2135432358523, 93.0, -3123.403708617848)
-[02:01:41] [Server thread/INFO]: BeastSangrienta joined the game
-[02:01:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
-[02:01:49] [User Authenticator #2/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[02:01:49] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:50983] logged in with entity id 860 at (1040.3515866444052, 71.0, -1781.6726926221854)
-[02:01:49] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[02:05:44] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[02:05:44] [Server thread/INFO]: BOLASLOCAS321 left the game
-[02:06:01] [User Authenticator #3/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[02:06:01] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:51082] logged in with entity id 4559 at (1040.8858747206177, 71.0, -1777.1385710582038)
-[02:06:01] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[02:06:13] [User Authenticator #4/INFO]: UUID of player Vainfern8 is b2306816-b6a1-432b-87bb-e7847b06f33e
-[02:06:13] [Server thread/INFO]: Vainfern8[/181.29.54.82:64700] logged in with entity id 4987 at (181.3837092275782, 104.0, 25.453391886696448)
-[02:06:13] [Server thread/INFO]: Vainfern8 joined the game
-[02:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1036, y=68, z=-1778} gu{x=1036, y=66, z=-1778}
-[02:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1036, y=65, z=-1778} gu{x=1036, y=66, z=-1778}
-[02:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
-[02:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2230ms or 44 ticks behind
-[02:16:51] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[02:16:51] [Server thread/INFO]: BOLASLOCAS321 left the game
-[02:17:17] [User Authenticator #5/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[02:17:17] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:51347] logged in with entity id 12883 at (1040.6920766520345, 71.0, -1780.3227486781439)
-[02:17:17] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[02:19:30] [Server thread/INFO]: <BOLASLOCAS321> 27 57 -3
-[02:19:47] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=412, y=39, z=-242} gu{x=411, y=42, z=-242}
-[02:20:47] [Server thread/INFO]: Vainfern8 was blown up by Creeper
-[02:26:24] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[02:26:24] [Server thread/INFO]: BOLASLOCAS321 left the game
-[02:27:04] [User Authenticator #6/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[02:27:04] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:51639] logged in with entity id 18144 at (110.19941662222244, 178.0, 164.85900481609576)
-[02:27:04] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[02:28:18] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[02:28:18] [Server thread/INFO]: BOLASLOCAS321 left the game
-[02:28:56] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b419b05[id=<null>,name=BOLASLOCAS321,properties={},legacy=false] (/192.168.0.10:51692) lost connection: Disconnected
-[02:29:11] [User Authenticator #7/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
-[02:29:11] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:51732] logged in with entity id 18789 at (111.19504736248857, 178.0, 156.38590635189686)
-[02:29:11] [Server thread/INFO]: BOLASLOCAS321 joined the game
-[02:50:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
-[02:51:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3235ms or 64 ticks behind
-[03:09:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[03:10:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=364, y=59, z=-155} gu{x=325, y=81, z=-92}
-[03:10:27] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=364, y=59, z=-155} gu{x=325, y=81, z=-91}
-[03:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=176, y=150, z=305} gu{x=176, y=150, z=304}
-[03:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=176, y=150, z=305} gu{x=176, y=150, z=304}
-[03:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=176, y=149, z=306} gu{x=176, y=150, z=304}
-[03:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=176, y=150, z=306} gu{x=176, y=148, z=306}
-[03:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=176, y=150, z=306} gu{x=176, y=148, z=306}
-[03:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=176, y=149, z=307} gu{x=176, y=148, z=306}
-[03:11:08] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=176, y=149, z=307} gu{x=176, y=148, z=306}
-[03:12:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
-[03:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9601ms or 192 ticks behind
-[03:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2764ms or 55 ticks behind
-[03:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3224ms or 64 ticks behind
-[03:15:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3525ms or 70 ticks behind
-[03:16:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8325ms or 166 ticks behind
-[03:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8026ms or 160 ticks behind
-[03:16:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3509ms or 70 ticks behind
-[03:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5268ms or 105 ticks behind
-[03:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6742ms or 134 ticks behind
-[03:17:45] [Server thread/INFO]: <Vainfern8> 367 62 1537
-[03:17:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6634ms or 132 ticks behind
-[03:17:54] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved too quickly! 1.5069377372579424,0.0,10.255185846493532
-[03:17:54] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved too quickly! 1.533359435744444,0.0,10.653226993433236
-[03:18:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7410ms or 148 ticks behind
-[03:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
-[03:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3852ms or 77 ticks behind
-[03:19:46] [Server thread/INFO]: BeastSangrienta has made the advancement [Spooky Scary Skeleton]
-[03:23:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[03:23:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4617ms or 92 ticks behind
-[03:24:04] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.4393710047006607
-[03:24:04] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.47533225172855964
-[03:24:04] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.507697373196379
-[03:24:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3658ms or 73 ticks behind
-[03:24:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3804ms or 76 ticks behind
-[03:25:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[03:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[03:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2358ms or 47 ticks behind
-[03:26:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4305ms or 86 ticks behind
-[03:27:02] [Server thread/WARN]: BeastSangrienta moved too quickly! -0.8007119607953541,-11.04112156542293,0.02223169923450996
-[03:27:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3645ms or 72 ticks behind
-[03:27:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3686ms or 73 ticks behind
-[03:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2137ms or 42 ticks behind
-[03:28:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5458ms or 109 ticks behind
-[03:28:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6224ms or 124 ticks behind
-[03:28:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4325ms or 86 ticks behind
-[03:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9070ms or 181 ticks behind
-[03:29:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=24, y=68, z=1742} gu{x=25, y=68, z=1742}
-[03:29:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=24, y=68, z=1742} gu{x=25, y=68, z=1742}
-[03:29:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=24, y=68, z=1742} gu{x=25, y=68, z=1742}
-[03:30:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03:31:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03:31:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8016ms or 160 ticks behind
-[03:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9538ms or 190 ticks behind
-[03:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6920ms or 138 ticks behind
-[03:33:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12541ms or 250 ticks behind
-[03:33:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12017ms or 240 ticks behind
-[03:34:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10695ms or 213 ticks behind
-[03:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15925ms or 318 ticks behind
-[03:35:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14241ms or 284 ticks behind
-[03:35:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7393ms or 147 ticks behind
-[03:35:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2783ms or 55 ticks behind
-[03:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4071ms or 81 ticks behind
-[03:36:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2643ms or 52 ticks behind
-[03:37:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[03:37:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[03:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3007ms or 60 ticks behind
-[03:38:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[03:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[03:40:08] [Server thread/INFO]: <Vainfern8> -303 65 2408
-[03:41:07] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved too quickly! -1.2565303052232366,0.0,10.323392796293774
-[03:41:07] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved too quickly! -1.3053366929425465,0.0,10.720400977066674
-[03:41:07] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved too quickly! -1.354155061450001,0.0,11.117407977872517
-[03:41:07] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved too quickly! -1.4029842126664676,0.0,11.514413916707781
-[03:41:07] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved too quickly! -1.4518230683207776,0.0,11.91141889977007
-[03:41:07] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved too quickly! -1.5006706579689535,0.0,12.308423022636362
-[03:41:07] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved too quickly! -1.5495261082114098,0.0,12.705426371326212
-[03:41:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15395ms or 307 ticks behind
-[03:41:25] [Server thread/WARN]: Vainfern8 moved too quickly! 1.513776291441161,0.7531999805212024,-9.957381905424882
-[03:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
-[03:42:35] [Server thread/WARN]: BeastSangrienta moved too quickly! 0.47655364524078436,-11.04333177741978,-1.3520875028750226
-[03:45:32] [Server thread/WARN]: BOLASLOCAS321 moved too quickly! -9.952677162729174,-1.233632006042484,-0.6412859145409762
-[03:46:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=809, y=79, z=23} gu{x=810, y=79, z=23}
-[03:46:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=802, y=86, z=23} gu{x=798, y=89, z=23}
-[03:46:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=797, y=89, z=23} gu{x=796, y=89, z=23}
-[03:46:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=798, y=90, z=23} gu{x=797, y=90, z=23}
-[03:46:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=798, y=90, z=23} gu{x=797, y=90, z=23}
-[03:46:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=798, y=90, z=23} gu{x=797, y=90, z=23}
-[03:46:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=798, y=90, z=23} gu{x=797, y=90, z=23}
-[03:46:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=798, y=90, z=23} gu{x=797, y=90, z=23}
-[03:50:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=494, y=143, z=424} gu{x=494, y=142, z=430}
-[03:50:57] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=494, y=143, z=424} gu{x=494, y=142, z=430}
-[03:56:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-205, y=83, z=828} gu{x=-206, y=83, z=828}
-[03:56:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-205, y=83, z=828} gu{x=-206, y=83, z=828}
-[03:56:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-205, y=83, z=828} gu{x=-206, y=83, z=828}
-[03:56:26] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-205, y=83, z=828} gu{x=-206, y=83, z=828}
-[03:56:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2261ms or 45 ticks behind
-[03:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2894ms or 57 ticks behind
-[03:57:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
-[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-673, y=116, z=811} gu{x=-673, y=117, z=811}
-[03:58:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-673, y=116, z=811} gu{x=-673, y=117, z=811}
-[04:00:04] [Server thread/WARN]: Boat (vehicle of Vainfern8) moved wrongly! 0.5862860940396786
-[04:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[04:01:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2298ms or 45 ticks behind
-[04:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[04:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
-[04:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2594ms or 51 ticks behind
-[04:02:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[04:02:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
-[04:03:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3694ms or 73 ticks behind
-[04:03:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2238ms or 44 ticks behind
-[04:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2395ms or 47 ticks behind
-[04:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
-[04:04:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[04:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2667ms or 53 ticks behind
-[04:05:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
-[04:05:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4398ms or 87 ticks behind
-[04:05:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
-[04:06:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[04:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
-[04:07:18] [Server thread/WARN]: Boat (vehicle of BOLASLOCAS321) moved too quickly! -0.25423190315359534,0.0,10.396889130022373
-[04:07:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
-[04:16:58] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1711, y=80, z=2347} gu{x=-1710, y=82, z=2347}
-[04:17:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1708, y=83, z=2347} gu{x=-1709, y=84, z=2347}
-[04:17:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1708, y=83, z=2347} gu{x=-1709, y=84, z=2347}
-[04:17:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1708, y=83, z=2347} gu{x=-1709, y=84, z=2347}
-[04:17:00] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-1708, y=83, z=2347} gu{x=-1709, y=84, z=2347}
-[04:20:43] [Server thread/INFO]: <BeastSangrienta> 1400 64 -500
-[04:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-57, y=80, z=2321} gu{x=-56, y=81, z=2321}
-[04:22:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-57, y=80, z=2321} gu{x=-56, y=81, z=2321}
-[04:28:45] [Server thread/INFO]: <BOLASLOCAS321> 1400 62 1200
-[04:39:05] [Server thread/INFO]: <BeastSangrienta> 800 -1500
-[04:40:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
-[05:01:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=519, y=136, z=59} gu{x=520, y=136, z=60}
-[05:01:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=520, y=135, z=60} gu{x=519, y=134, z=60}
-[05:03:59] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=519, y=133, z=51} gu{x=523, y=133, z=52}
-[05:18:04] [Server thread/INFO]: Seed: [-7448116471987232567]
-[05:18:23] [Server thread/INFO]: [Not Secure] [Server] Seed: [-7448116471987232567]
-[05:27:43] [Server thread/WARN]: Boat (vehicle of BeastSangrienta) moved wrongly! 0.31338808563396015
-[05:27:44] [Server thread/WARN]: Boat (vehicle of BeastSangrienta) moved wrongly! 0.26004820674779694
-[05:33:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
-[05:33:57] [Server thread/INFO]: <Vainfern8> 26 57 -2
-[05:34:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[05:34:41] [Server thread/INFO]: <BeastSangrienta> 164 74 -52}
-[05:44:20] [Server thread/INFO]: BOLASLOCAS321 has completed the challenge [Sniper Duel]
-[06:14:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
-[06:14:55] [Server thread/INFO]: <Vainfern8> 152 -1198
-[06:21:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=164, y=57, z=-1178} gu{x=164, y=56, z=-1178}
-[06:23:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1036, y=64, z=-1778} gu{x=1036, y=66, z=-1778}
-[06:23:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1036, y=64, z=-1778} gu{x=1036, y=66, z=-1778}
-[06:23:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1036, y=64, z=-1778} gu{x=1036, y=66, z=-1778}
-[06:23:42] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=1036, y=64, z=-1778} gu{x=1036, y=66, z=-1778}
-[06:31:09] [Server thread/INFO]: BeastSangrienta lost connection: Disconnected
-[06:31:09] [Server thread/INFO]: BeastSangrienta left the game
-[06:31:10] [Server thread/INFO]: Vainfern8 lost connection: Disconnected
-[06:31:10] [Server thread/INFO]: Vainfern8 left the game
-[06:32:03] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
-[06:32:03] [Server thread/INFO]: BOLASLOCAS321 left the game
-[06:32:08] [Server thread/INFO]: Stopping the server
-[06:32:08] [Server thread/INFO]: Stopping server
-[06:32:08] [Server thread/INFO]: Saving players
-[06:32:08] [Server thread/INFO]: Saving worlds
-[06:32:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
-[06:32:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
-[06:32:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
-[06:32:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
-[06:32:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:32:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:32:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:34:44] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:34:46] [ServerMain/INFO]: Loaded 7 recipes
+[17:34:46] [ServerMain/INFO]: Loaded 1271 advancements
+[17:34:47] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:34:47] [Server thread/INFO]: Loading properties
+[17:34:47] [Server thread/INFO]: Default game type: SURVIVAL
+[17:34:47] [Server thread/INFO]: Generating keypair
+[17:34:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:34:47] [Server thread/INFO]: Using default channel type
+[17:34:48] [Server thread/INFO]: Preparing level "KREIMERS"
+[17:34:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:35:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:35:01] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:35:02] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:35:02] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[17:35:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:35:03] [Worker-Main-5/INFO]: Preparing spawn area: 33%
+[17:35:04] [Worker-Main-1/INFO]: Preparing spawn area: 49%
+[17:35:05] [Worker-Main-5/INFO]: Preparing spawn area: 99%
+[17:35:05] [Worker-Main-3/INFO]: Preparing spawn area: 99%
+[17:35:05] [Worker-Main-4/INFO]: Preparing spawn area: 99%
+[17:35:05] [Server thread/INFO]: Time elapsed: 15258 ms
+[17:35:05] [Server thread/INFO]: Done (17.912s)! For help, type "help"
+[18:07:24] [User Authenticator #1/INFO]: UUID of player Herstegen is 00a1f3cf-28a7-49be-8d71-3099b4295535
+[18:07:25] [Server thread/INFO]: Herstegen[/186.22.17.217:45818] logged in with entity id 585 at (186.4481201328586, 102.9375, 35.97668623784599)
+[18:07:25] [Server thread/INFO]: Herstegen joined the game
+[18:15:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:15:16] [Server thread/INFO]: <--[HERE]
+[18:15:20] [Server thread/INFO]: [Not Secure] [Server] se�or esta?
+[18:15:26] [Server thread/INFO]: <Herstegen> si
+[18:15:31] [Server thread/INFO]: [Not Secure] [Server] anda todo bien?
+[18:15:34] [Server thread/INFO]: <Herstegen> lagi
+[18:15:39] [Server thread/INFO]: [Not Secure] [Server] uh
+[18:15:50] [Server thread/INFO]: [Not Secure] [Server] bueno la pc esta dando todo de su ser
+[18:15:59] [Server thread/INFO]: <Herstegen> excelente
+[18:16:01] [Server thread/INFO]: <Herstegen> gracias
+[18:16:03] [Server thread/INFO]: [Not Secure] [Server] en un rato vengo 
+[18:16:07] [Server thread/INFO]: <Herstegen> hiciste algo del ordenador?
+[18:16:11] [Server thread/INFO]: <Herstegen> de objetos
+[18:16:21] [Server thread/INFO]: <Herstegen> yo voy a estar un rato nomás y sigo estudiando
+[18:16:22] [Server thread/INFO]: [Not Secure] [Server] nonono, junte todos los materiales para la granja de esme
+[18:16:27] [Server thread/INFO]: <Herstegen> ok
+[18:16:29] [Server thread/INFO]: [Not Secure] [Server] empece la granja de esme e
+[18:16:33] [Server thread/INFO]: <Herstegen> hay redstone y eso?
+[18:16:34] [Server thread/INFO]: [Not Secure] [Server] esta bien complicada
+[18:16:50] [Server thread/INFO]: [Not Secure] [Server] no hay reds
+[18:17:05] [Server thread/INFO]: [Not Secure] [Server] pero podes conseguir todo tradeando con los aldeanos
+[18:17:13] [Server thread/INFO]: [Not Secure] [Server] hay 1 que es alquimista o clerico creo
+[18:17:13] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:17:13] [Server thread/INFO]: <--[HERE]
+[18:17:23] [Server thread/INFO]: [Not Secure] [Server] te da 2 de redstone x 1 esmeralda
+[18:17:31] [Server thread/INFO]: [Not Secure] [Server] esmeralda tenemos casi infinito
+[18:17:46] [Server thread/INFO]: <Herstegen> ok
+[18:17:46] [Server thread/INFO]: [Not Secure] [Server] agarras el hierro de todas las granjas y lo cambias x esme a los weaponsmith
+[18:17:51] [Server thread/INFO]: <Herstegen> de lujo
+[18:18:04] [Server thread/INFO]: <Herstegen> puedo matar vacas?
+[18:18:08] [Server thread/INFO]: [Not Secure] [Server] sisi
+[18:18:15] [Server thread/INFO]: <Herstegen> el lag me parece que es porque el mundo está re cargado de entidades jsjsjjs
+[18:18:15] [Server thread/INFO]: [Not Secure] [Server] podes matar todo pero que queden 2 al menos
+[18:18:27] [Server thread/INFO]: [Not Secure] [Server] sisi el server pesa casi 4gb ahora
+[18:28:11] [Server thread/INFO]: Villager byb['Villager'/394, l='ServerLevel[KREIMERS]', x=95.70, y=171.00, z=146.70] died, message: 'Villager was slain by Zombie'
+[18:28:56] [Server thread/INFO]: Villager byb['Villager'/393, l='ServerLevel[KREIMERS]', x=72.38, y=179.75, z=178.70] died, message: 'Villager was slain by Zombie'
+[18:29:36] [Server thread/INFO]: Herstegen has made the advancement [What a Deal!]
+[18:31:55] [Server thread/INFO]: Herstegen has made the advancement [Cover Me with Diamonds]
+[18:39:24] [Server thread/INFO]: <Herstegen> 4gb? we
+[18:41:38] [Server thread/INFO]: Herstegen has made the advancement [Isn't It Iron Pick]
+[19:10:06] [User Authenticator #2/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
+[19:10:06] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:58658] logged in with entity id 11697 at (1031.488017240034, 75.0, -1781.8700978445866)
+[19:10:06] [Server thread/INFO]: BOLASLOCAS321 joined the game
+[19:22:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2415ms or 48 ticks behind
+[19:30:10] [Server thread/WARN]: Herstegen moved too quickly! 4.037834738254247,-1.2405414225528801,9.189853894675586
+[19:30:10] [Server thread/WARN]: BOLASLOCAS321 moved too quickly! 9.06574163570599,-1.9305045112371744,3.9324014796819498
+[19:42:05] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=139, y=84, z=95} gu{x=139, y=83, z=95}
+[19:42:19] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=138, y=82, z=100} gu{x=138, y=83, z=101}
+[20:26:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=116, y=87, z=75} gu{x=117, y=87, z=75}
+[20:28:56] [Server thread/INFO]: <BOLASLOCAS321> 133 84 92
+[20:43:14] [Server thread/INFO]: Villager byb['Villager'/463, l='ServerLevel[KREIMERS]', x=95.70, y=171.00, z=146.70] died, message: 'Villager was slain by Zombie'
+[20:53:27] [Server thread/INFO]: Herstegen lost connection: Disconnected
+[20:53:27] [Server thread/INFO]: Herstegen left the game
+[20:53:27] [Server thread/WARN]: handleDisconnection() called twice
+[20:56:36] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
+[20:56:36] [Server thread/INFO]: BOLASLOCAS321 left the game
+[20:56:40] [User Authenticator #3/INFO]: UUID of player BOLASLOCAS321 is 001a8e2e-a429-4416-89e2-e3ac5aa1a388
+[20:56:41] [Server thread/INFO]: BOLASLOCAS321[/192.168.0.10:61065] logged in with entity id 36741 at (138.4861290994062, 85.0, 87.96198376332586)
+[20:56:41] [Server thread/INFO]: BOLASLOCAS321 joined the game
+[21:30:10] [Server thread/INFO]: BOLASLOCAS321 lost connection: Disconnected
+[21:30:10] [Server thread/INFO]: BOLASLOCAS321 left the game
+[21:42:08] [Server thread/INFO]: Stopping the server
+[21:42:08] [Server thread/INFO]: Stopping server
+[21:42:08] [Server thread/INFO]: Saving players
+[21:42:08] [Server thread/INFO]: Saving worlds
+[21:42:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:overworld
+[21:42:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_end
+[21:42:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[KREIMERS]'/minecraft:the_nether
+[21:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (KREIMERS): All chunks are saved
+[21:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:42:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
